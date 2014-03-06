@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1394090590 source:/home/xianggao/Desktop/OpenGL/Stanford/assignment1/main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<vector>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
